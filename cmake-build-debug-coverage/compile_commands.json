@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/richiie/CLionProjects/byte8/cmake-build-debug-coverage",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -isystem /usr/local/Cellar/raylib/4.2.0/include -fprofile-instr-generate -fcoverage-mapping -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -I/usr/local/Cellar/raylib/4.2.0/include -o CMakeFiles/byte8.dir/main.c.o -c /Users/richiie/CLionProjects/byte8/main.c",
+  "file": "/Users/richiie/CLionProjects/byte8/main.c"
+},
+{
+  "directory": "/Users/richiie/CLionProjects/byte8/cmake-build-debug-coverage",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -isystem /usr/local/Cellar/raylib/4.2.0/include -fprofile-instr-generate -fcoverage-mapping -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -I/usr/local/Cellar/raylib/4.2.0/include -o CMakeFiles/byte8.dir/opcodes.c.o -c /Users/richiie/CLionProjects/byte8/opcodes.c",
+  "file": "/Users/richiie/CLionProjects/byte8/opcodes.c"
+},
+{
+  "directory": "/Users/richiie/CLionProjects/byte8/cmake-build-debug-coverage",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -isystem /usr/local/Cellar/raylib/4.2.0/include -fprofile-instr-generate -fcoverage-mapping -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -I/usr/local/Cellar/raylib/4.2.0/include -o CMakeFiles/byte8.dir/input.c.o -c /Users/richiie/CLionProjects/byte8/input.c",
+  "file": "/Users/richiie/CLionProjects/byte8/input.c"
+},
+{
+  "directory": "/Users/richiie/CLionProjects/byte8/cmake-build-debug-coverage",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -isystem /usr/local/Cellar/raylib/4.2.0/include -fprofile-instr-generate -fcoverage-mapping -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -I/usr/local/Cellar/raylib/4.2.0/include -o CMakeFiles/byte8.dir/graphics.c.o -c /Users/richiie/CLionProjects/byte8/graphics.c",
+  "file": "/Users/richiie/CLionProjects/byte8/graphics.c"
+}
+]
